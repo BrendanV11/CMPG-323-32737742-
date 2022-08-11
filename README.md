@@ -15,6 +15,11 @@
   <li>CMPG 323 - Linking Repositories</li>
  </ul>
  
+ <h3>Branching strategy to be used: </h3>
+ <p>After the intitial setup of all the comonents (when everything is in order after project 1), the way I will implement branches to my repositories is as follow.</p>
+ 
+ <p>I will create a branch off of the main/default branch and implement all my changes within the secondary branch I have created. Anything that I do on the secondary branch I will then commit and merge into the main branch once I feel that it is neccessary. However, if there are any errors that I encounter after committing and merging the branches, I will create another branch named hot-fix and assign a version to the branch in order to keep track of updates. In this hot-fix branch I will simply fix the error, update the version number, and merge this branch into the main/default branch.</p>
+ 
  <h3>Use of .gitignore</h3>
  <p>When.gitignore is used it essentially tells Git whether there are files that should be ignored when committing a project to your repository.</p>
  
