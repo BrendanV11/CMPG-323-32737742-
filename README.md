@@ -26,12 +26,7 @@
  <h3>Storage of credentials and sensitive information</h3>
  <p>This type of information should never be stored in git repositories. We should rather add these sensitive files to gitignore thus excluding these files from being pushed into the repositories. Furthermore, simply creating a private repository will not be enough as these type of repositories are seen as "High value" targets in which others may gain some valuable information.</p>
  
-<h4>Methods to protect sensitive information:</h4>
-<h6>(Simon Maple, 2018)</h6>
-<ul>
-  <li>Addition of SECURITY.md file</li>
-  <li>Access control</li>
-  <li>Do not always trust third-party GitHub applications</li>
-  <li>Consider puurchasing GitHub Enterprise</li>
-  <li>Audit sensitive data before committing to repositories</li>
- </ul>
+<h4>Method I will use to protect sensitive information:</h4>
+<p>Any files/folders that appear in the repossitory that I would rather ignore when commiting in Git/GitHub I will simply add these documents to the .gitignore in order to protect the information.</p>
+
+
