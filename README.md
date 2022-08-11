@@ -5,14 +5,13 @@
 <p>Repository for CMPG 323 for myself 32737742 in which I will add various items such as milestones, labels, a readME file that will be continuously updated throughout the semester, charts and projects related to CMPG 323 etc...</p>
 
 <p>I will be seperating all my projects into their own respevtive repositories and use anchor elements in a single repository to link all the relevant projects:</p>
-<h3>Repositories to be used: </h3>
+<h3>Repositories to be used (with links): </h3>
 <ul>
-  <li>Project 1 - Agile & Scrum</li>
-  <li>Project 2 - API Development</li>
-  <li>Project 3 - Standards & Patterns</li>
-  <li>Project 4 - Testing & RPA</li>
-  <li>Project 5 - Reporting & Monitoring</li>
-  <li>CMPG 323 - Linking Repositories</li>
+  <li><a href=https://github.com/BrendanV11/CMPG-323-32737742->Project 1 - Agile & Scrum</a></li>
+  <li><a href=#>Project 2 - API Development</a></li>
+  <li><a href=#>Project 3 - Standards & Patterns</a></li>
+  <li><a href=#>Project 4 - Testing & RPA</a></li>
+  <li><a href=#>Project 5 - Reporting & Monitoring</a></li>
  </ul>
  
  <h3>Branching strategy to be used: </h3>
