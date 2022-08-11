@@ -7,7 +7,7 @@
 <p>I will be seperating all my projects into their own respevtive repositories and use anchor elements in a single repository to link all the relevant projects:</p>
 <h3>Repositories to be used (with links): </h3>
 <ul>
-  <li><a href=https://github.com/BrendanV11/CMPG-323-32737742->Project 1 - Agile & Scrum</a></li>
+  <li><a href=https://github.com/BrendanV11/CMPG-323-Overview-32737742>Project 1 - Agile & Scrum</a></li>
   <li><a href=#>Project 2 - API Development</a></li>
   <li><a href=#>Project 3 - Standards & Patterns</a></li>
   <li><a href=#>Project 4 - Testing & RPA</a></li>
