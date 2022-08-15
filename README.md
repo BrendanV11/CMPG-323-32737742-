@@ -8,10 +8,10 @@
 <h3>Repositories to be used (with links): </h3>
 <ul>
   <li><a href=https://github.com/BrendanV11/CMPG-323-Overview-32737742>Project 1 - Agile & Scrum</a></li>
-  <li><a href=#>Project 2 - API Development</a></li>
-  <li><a href=#>Project 3 - Standards & Patterns</a></li>
-  <li><a href=#>Project 4 - Testing & RPA</a></li>
-  <li><a href=#>Project 5 - Reporting & Monitoring</a></li>
+  <li><a href="https://github.com/BrendanV11/Project-2---API-Development">Project 2 - API Development</a></li>
+  <li><a href="https://github.com/BrendanV11/Project-3---Standards-Patterns">Project 3 - Standards & Patterns</a></li>
+  <li><a href="https://github.com/BrendanV11/Project-4---Testing-RPA">Project 4 - Testing & RPA</a></li>
+  <li><a href="https://github.com/BrendanV11/Project-5---Reporting-Monitoring">Project 5 - Reporting & Monitoring</a></li>
  </ul>
  
  <h3>Branching strategy to be used: </h3>
