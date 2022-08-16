@@ -31,7 +31,7 @@
 <h3>Diagram explaining project and repository context and how they are integrated:</h3>
 
 <p>
-  Diagram Link: (https://user-images.githubusercontent.com/88327992/184650627-53f206d2-b85e-43d0-b264-96115c083410.png)
+  Diagram Link: (https://user-images.githubusercontent.com/88327992/184866673-521c56b3-c32b-4693-b2ac-7e09878d8147.png)
 </p>
 
 
