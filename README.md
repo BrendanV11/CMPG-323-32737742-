@@ -20,13 +20,13 @@
  <p>I will create a branch off of the main/default branch and implement all my changes within the secondary branch I have created. Anything that I do on the secondary branch I will then commit and merge into the main branch once I feel that it is neccessary. However, if there are any errors that I encounter after committing and merging the branches, I will create another branch named hot-fix and assign a version to the branch in order to keep track of updates. In this hot-fix branch I will simply fix the error, update the version number, and merge this branch into the main/default branch.</p>
  
  <h3>Use of .gitignore</h3>
- <p>When.gitignore is used it essentially tells Git whether there are files that should be ignored when committing a project to your repository. Throughout the semester I will determine what data need not be added when committing to the repository and add it to the .gitignore folder.</p>
+ <p>When.gitignore is used it essentially tells Git whether there are files that should be ignored when committing a project to your repository. Throughout the semester I will determine what data need not be added when committing to the repository and add it to the .gitignore folder. and then update the README.md file accordingly</p>
  
  <h3>Storage of credentials and sensitive information</h3>
  <p>This type of information should never be stored in git repositories. We should rather add these sensitive files to gitignore thus excluding these files from being pushed into the repositories. Furthermore, simply creating a private repository will not be enough as these type of repositories are seen as "High value" targets in which others may gain some valuable information.</p>
  
 <h4>Method I will use to protect sensitive information:</h4>
-<p>Any files/folders that appear in the repossitory that I would rather ignore when commiting in Git/GitHub I will simply add these documents to the .gitignore in order to protect the information. I will research various methods on what is the best way to store sensitive data and plan accordingly to keep this information guarded.</p>
+<p>Any files/folders that appear in the repossitory that I would rather ignore when commiting in Git/GitHub I will simply add these documents to the .gitignore in order to protect the information. Iwill be looking at various methods such as adding repository secrets with the use of gh secret set "secret-name", and evaluate if it delivers the desired outcome. I will research various methods on what is the best way to store sensitive data and plan accordingly to keep this information guarded.</p>
 
 <h3>Diagram explaining project and repository context and how they are integrated:</h3>
 
