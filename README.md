@@ -40,5 +40,5 @@
   <li>Number of items by label: (https://user-images.githubusercontent.com/88327992/184931764-17ee89f1-201a-4584-bb54-4788c35541ec.png)</li>
   <li>Number of items by sprint: (https://user-images.githubusercontent.com/88327992/184931938-8ed395a7-b25b-41e8-9e19-0c29756dd43b.png)</li>
   <li>Number of items by status: (https://user-images.githubusercontent.com/88327992/184932149-3733267c-d4ca-4a8a-84c3-7e7c47eaf8c6.png)</li>
-  <li>Burdown Chart: (https://user-images.githubusercontent.com/88327992/184933452-0261aab2-7524-4f28-b196-614518f46dc4.png)</li>
+  <li>Burdown Chart: (https://user-images.githubusercontent.com/88327992/185185018-f077f95b-4959-41c9-b28f-9fe074cc7415.png)</li>
 </ul>
