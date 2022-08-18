@@ -26,7 +26,7 @@
  <p>This type of information should never be stored in git repositories. We should rather add these sensitive files to gitignore thus excluding these files from being pushed into the repositories. Furthermore, simply creating a private repository will not be enough as these type of repositories are seen as "High value" targets in which others may gain some valuable information.</p>
  
 <h4>Method I will use to protect sensitive information:</h4>
-<p>Any files/folders that appear in the repossitory that I would rather ignore when commiting in Git/GitHub I will simply add these documents to the .gitignore in order to protect the information. Iwill be looking at various methods such as adding repository secrets with the use of gh secret set "secret-name", and evaluate if it delivers the desired outcome. I will research various methods on what is the best way to store sensitive data and plan accordingly to keep this information guarded.</p>
+<p>Any files/folders that appear in the repossitory that I would rather ignore when commiting in Git/GitHub I will simply add these documents to the .gitignore in order to protect the information. I will be looking at various methods such as adding repository secrets with the use of gh secret set "secret-name", and evaluate if it delivers the desired outcome. I will research various methods on what is the best way to store sensitive data and plan accordingly to keep this information guarded.</p>
 
 <h3>Diagram explaining project and repository context and how they are integrated:</h3>
 
