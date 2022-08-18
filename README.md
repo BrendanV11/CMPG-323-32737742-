@@ -20,13 +20,13 @@
  <p>I will create a branch off of the main/default branch and implement all my changes within the secondary branch I have created. Anything that I do on the secondary branch I will then commit and merge into the main branch once I feel that it is neccessary. However, if there are any errors that I encounter after committing and merging the branches, I will create another branch named hot-fix and assign a version to the branch in order to keep track of updates. In this hot-fix branch I will simply fix the error, update the version number, and merge this branch into the main/default branch.</p>
  
  <h3>Use of .gitignore</h3>
- <p>When.gitignore is used it essentially tells Git whether there are files that should be ignored when committing a project to your repository. Throughout the semester I will determine what data need not be added when committing to the repository and add it to the .gitignore folder. and then update the README.md file accordingly</p>
+ <p>When.gitignore is used it essentially tells Git whether there are files that should be ignored when committing a project to your repository. Throughout the semester I will determine what data need not be added when committing to the repository and add it to the .gitignore folder. and then update the README.md file accordingly.</p>
  
  <h3>Storage of credentials and sensitive information</h3>
- <p>This type of information should never be stored in git repositories. We should rather add these sensitive files to gitignore thus excluding these files from being pushed into the repositories. Furthermore, simply creating a private repository will not be enough as these type of repositories are seen as "High value" targets in which others may gain some valuable information.</p>
+ <p>This type of information should never be stored in git repositories. We should rather add these sensitive files to gitignore thus excluding these files from being pushed into the repositories. Furthermore, simply creating a private repository will not be enough as these type of repositories are seen as "High value" targets in which others may gain some valuable information (Simon Maple, 2018).</p>
  
 <h4>Method I will use to protect sensitive information:</h4>
-<p>Any files/folders that appear in the repossitory that I would rather ignore when commiting in Git/GitHub I will simply add these documents to the .gitignore in order to protect the information. I will be looking at various methods such as adding repository secrets with the use of gh secret set "secret-name", and evaluate if it delivers the desired outcome. I will research various methods on what is the best way to store sensitive data and plan accordingly to keep this information guarded.</p>
+<p>Any files/folders that appear in the repossitory that I would rather ignore when commiting in Git/GitHub I will simply add these documents to the .gitignore in order to protect the information. I will be looking at various methods such as adding repository secrets with the use of gh secret set "secret-name", and evaluate if it delivers the desired outcome. I will research various methods on what is the best way to store sensitive data and plan accordingly to keep this information guarded (Johnson, 2020).</p>
 
 <h3>Diagram explaining project and repository context and how they are integrated:</h3>
 
@@ -42,3 +42,33 @@
   <li>Number of items by status: (https://user-images.githubusercontent.com/88327992/184932149-3733267c-d4ca-4a8a-84c3-7e7c47eaf8c6.png)</li>
   <li>Burdown Chart: (https://user-images.githubusercontent.com/88327992/185185018-f077f95b-4959-41c9-b28f-9fe074cc7415.png)</li>
 </ul>
+
+<h3>Reference List:</h3>
+<p>
+  Johnson, J., 2020. Ignoring in Git: How To Use .gitignore Files. [Online] 
+</p>
+<p>
+  Available at:
+</p>
+<p>
+(https://www.bmc.com/blogs/gitignore/#:~:text=gitignore%20file%20tells%20Git%20which,root%20directory%20of%20your%20repo.&text=%2F%20will%20ignore%20directories%20with%20the%20name.)
+</p>
+<p>
+  [Accessed 18 August 2022].
+</p>
+
+
+
+<p>
+  Simon Maple, T. P.-W., 2018. snyk. [Online] 
+</p>
+<p>
+  Available at:
+</p>
+<p>
+https://snyk.io/blog/ten-git-hub-security-best-practices/
+</p>
+<p>
+  [Accessed 10 August 2022].
+</p>
+
