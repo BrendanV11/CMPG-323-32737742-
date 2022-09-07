@@ -57,6 +57,7 @@
 </ul>
 
 <h2>Reference List:</h2>
-<p>https://github.com/BrendanV11/CMPG-323-Overview-32737742/files/9507061/References2.pdf
+<p>https://github.com/BrendanV11/CMPG-323-Overview-32737742/files/9507218/References3.pdf
+
 </p>
 
