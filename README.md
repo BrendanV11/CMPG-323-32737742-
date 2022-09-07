@@ -22,6 +22,19 @@
  <h3>Use of .gitignore</h3>
  <p>When.gitignore is used it essentially tells Git whether there are files that should be ignored when committing a project to your repository. Throughout the semester I will determine what data need not be added when committing to the repository and add it to the .gitignore folder. and then update the README.md file accordingly.</p>
  
+<h3>My use of .gitignore</h3>
+<h3>Project 1</h3>
+<p>Explanation of how it works and can be implemented</p>
+
+<h3>Project 2</h3>
+<p>Using a website that enables us to get all the instances that we might want to ignore when uploading to github, I added these to the .gitignore file:</p>
+  <uL>
+  <li>C#</li>
+  <li>ASP</li>
+  <li>connection.udl</li>
+  <li>appsettings.json</li>
+  </ul>
+ 
  <h3>Storage of credentials and sensitive information</h3>
  <p>This type of information should never be stored in git repositories. We should rather add these sensitive files to gitignore thus excluding these files from being pushed into the repositories. Furthermore, simply creating a private repository will not be enough as these type of repositories are seen as "High value" targets in which others may gain some valuable information (Simon Maple, 2018).</p>
  
