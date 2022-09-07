@@ -44,31 +44,5 @@
 </ul>
 
 <h3>Reference List:</h3>
-<p>
-  Johnson, J., 2020. Ignoring in Git: How To Use .gitignore Files. [Online] 
-</p>
-<p>
-  Available at:
-</p>
-<p>
-(https://www.bmc.com/blogs/gitignore/#:~:text=gitignore%20file%20tells%20Git%20which,root%20directory%20of%20your%20repo.&text=%2F%20will%20ignore%20directories%20with%20the%20name.)
-</p>
-<p>
-  [Accessed 18 August 2022].
-</p>
-
-
-
-<p>
-  Simon Maple, T. P.-W., 2018. snyk. [Online] 
-</p>
-<p>
-  Available at:
-</p>
-<p>
-https://snyk.io/blog/ten-git-hub-security-best-practices/
-</p>
-<p>
-  [Accessed 10 August 2022].
-</p>
+<p>https://github.com/BrendanV11/CMPG-323-Overview-32737742/files/9506145/References.pdf</p>
 
