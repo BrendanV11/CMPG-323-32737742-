@@ -34,6 +34,15 @@
   <li>connection.udl</li>
   <li>appsettings.json</li>
   </ul>
+  
+  <h3>Project 3</h3>
+<p>Implemeneted standards and patterns to make the program more efficient and reduce duplicate/redundant code.</p>
+  <uL>
+  <li>Implemented repository classes</li>
+  <li>Implemented Interfaces</li>
+  <li>Removed all references to _context in the repository classes.</li>
+  <li>.gitignore appsettings.json to hide cridentials</li>
+  </ul>
  
  <h2>Storage of credentials and sensitive information</h2>
  <p>This type of information should never be stored in git repositories. We should rather add these sensitive files to gitignore thus excluding these files from being pushed into the repositories. Furthermore, simply creating a private repository will not be enough as these type of repositories are seen as "High value" targets in which others may gain some valuable information (Simon Maple, 2018).</p>
@@ -57,7 +66,7 @@
 </ul>
 
 <h2>Reference List:</h2>
-<p>https://github.com/BrendanV11/CMPG-323-Overview-32737742/files/9507218/References3.pdf
-
+<p>
+(https://github.com/BrendanV11/CMPG-323-Overview-32737742/files/9673079/References.pdf)
 </p>
 
