@@ -43,6 +43,10 @@
   <li>Removed all references to _context in the repository classes.</li>
   <li>.gitignore appsettings.json to hide cridentials</li>
   </ul>
+  
+  <h3>Project 4</h3>
+    <li>No use of .gitignore</li>
+    <li>Used Orchestrator to store credentials using assets.</li>
  
  <h2>Storage of credentials and sensitive information</h2>
  <p>This type of information should never be stored in git repositories. We should rather add these sensitive files to gitignore thus excluding these files from being pushed into the repositories. Furthermore, simply creating a private repository will not be enough as these type of repositories are seen as "High value" targets in which others may gain some valuable information (Simon Maple, 2018).</p>
